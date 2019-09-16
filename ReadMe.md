@@ -1,3 +1,2 @@
 Go
-Echo
-サンプル
+Unuboサンプル
